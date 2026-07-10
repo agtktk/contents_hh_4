@@ -4,7 +4,7 @@ export const siteConfig = {
   siteDescription: '콘텐츠이용료현금 안전 거래 가이드. 복잡한 절차 없이 모바일로 간편하게 신청하고 실시간으로 신속 해결하세요.',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/sample.png',
-  naverVerificationCode: '',
+  naverVerificationCode: '32bbfe7f04d21240776d0e1136e6be34ba94bf58',
   googleVerificationCode: '',
   company: '희망티켓',
   phone: '01094691051',
